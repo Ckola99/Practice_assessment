@@ -82,7 +82,7 @@ Examples:
 uniqueChars("abcdef") → true
 uniqueChars("hello")  → false
 
-1. `fizzBuzz(int n): List<String>`
+9. `fizzBuzz(int n): List<String>`
 
 
 **Parameters**:
@@ -109,7 +109,7 @@ e.g: `fizzBuzz(15)`
 
 ---
 
-2. `fibonacciSequence(int n): String`
+10. `fibonacciSequence(int n): String`
 
 **Parameters**:
 n — The number of Fibonacci numbers to generate. Must be a non-negative integer.
@@ -129,7 +129,7 @@ e.g: ``fibonnaciSequence(7)``
 
 ---
 
-3. `calculate(int a, int b, String operator): String`
+11. `calculate(int a, int b, String operator): String`
 
 **Parameters**:
 
@@ -154,7 +154,7 @@ calculate(10, 3, "/")  // "3"
 ```
 ---
 
-4. `drawTriangle(int n): String`
+12. `drawTriangle(int n): String`
 
 **Parameters**:
 
@@ -174,7 +174,7 @@ e.g: ``drawTriangle(3)``
 
 ---
 
-5. `ìsPalindrome(String str): boolean`
+13. `ìsPalindrome(String str): boolean`
 
 **Parameters**:
 string — The string to check.
@@ -197,7 +197,7 @@ isPalindrome("a")           // true
 
 ---
 
-6. `factorial(int n): long`
+14. `factorial(int n): long`
 
 **Parameters**:
 
@@ -220,7 +220,7 @@ e.g: ``factorial(5)``
 ```
 
 🌟 Challenge Questions (Level Up)
-9. anagramCheck(String s1, String s2): boolean
+15. anagramCheck(String s1, String s2): boolean
 
 Description:
 Check if two strings are anagrams (contain the same letters, case-insensitive, ignoring spaces/punctuation).
@@ -230,7 +230,7 @@ Examples:
 anagramCheck("listen", "silent") → true
 anagramCheck("hello", "world")   → false
 
-10. twoSum(int[] nums, int target): List<Integer>
+16. twoSum(int[] nums, int target): List<Integer>
 
 Description:
 Return the indices of the two numbers in the array that add up to the target. If none, return an empty list.
@@ -240,7 +240,7 @@ Examples:
 twoSum([2, 7, 11, 15], 9) → [0, 1]
 twoSum([3, 2, 4], 6)      → [1, 2]
 
-11. rotateMatrix(int[][] matrix): int[][]
+17. rotateMatrix(int[][] matrix): int[][]
 
 Description:
 Rotate a square matrix (NxN) 90 degrees clockwise.
@@ -260,7 +260,7 @@ Output:
 8 5 2
 9 6 3
 
-12. longestSubstringWithoutRepeating(String str): int
+18. longestSubstringWithoutRepeating(String str): int
 
 Description:
 Return the length of the longest substring without repeating characters.
