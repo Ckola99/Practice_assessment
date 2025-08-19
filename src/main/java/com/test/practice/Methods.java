@@ -1,85 +1,80 @@
 package com.test.practice;
 
-import java.util.Arrays;
-import java.util.Set;
-import java.util.HashSet;
-import java.util.List;
-import java.util.ArrayList;
 public class Methods {
 
-	// public String reverseString(String word) {
-	// 	// Implement
-	// }
+    // Reverse a given string
+    public String reverseString(String word) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
-	// public int countVowels(String word) {
-	// 	// Implement
-	// }
+    // Count the number of vowels in a given string
+    public int countVowels(String word) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
-	// public int sumDigits(int number) {
-	// 	// Implement
-	// }
+    // Check if a number is prime
+    public boolean isPrime(int number) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
-	// public int findMax(int[] numbers, int n) {
-	// 	// Implement
-	// }
+    // Find the factorial of a number
+    public long factorial(int number) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
-	// public boolean isPrime(int n) {
-	// 	// Implement
-	// }
+    // Find the maximum of two numbers
+    public int max(int a, int b) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
-	// public int gcd(int n, int m) {
-	// 	// Implement
-	// }
+    // Check if a given string is a palindrome
+    public boolean isPalindrome(String word) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
-	// public String titleCase(String sentence) {
-	// 	// Implement
-	// }
+    // Count the digits of a given integer
+    public int countDigits(int number) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
-	// public  List<String> fizzBuzz(int n) {
+    // Sum of digits of a number
+    public int sumDigits(int number) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
- //       // Implement
- //    }
+    // Check if a number is even
+    public boolean isEven(int number) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
- //    public String fibonacciSequence(int n) {
- //       // Implement
- //    }
+    // Generate Fibonacci sequence up to n terms
+    public int[] fibonacci(int n) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
+    // Find the GCD of two numbers
+    public int gcd(int a, int b) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
- //    public String calculate(int a, int b, String Operator){
- //        // Implement
- //    }
+    // Find the LCM of two numbers
+    public int lcm(int a, int b) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
+    // Convert Celsius to Fahrenheit
+    public double celsiusToFahrenheit(double celsius) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
+    // Convert Fahrenheit to Celsius
+    public double fahrenheitToCelsius(double fahrenheit) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
 
- //    public String drawTriangle(int n){
- //        // Implement
- //    }
+    // Find the minimum of two numbers
+    public int min(int a, int b) {
+        throw new UnsupportedOperationException("Not yet implemented");
+    }
+}
 
- //    public boolean isPalindrome(String str){
- //       // Implement
- //    }
-
- //    public long factorial(int n) {
- //        // Implement
- //    }
-
-	// public boolean uniqueChars(String word) {
-	// 	// Implement
-
-	// }
-
-	// public boolean anagramCheck(String str1, String str2) {
-	// 	// Implement
-	// }
-
-	// public int[] twoSum(int[] nums, int target) {
-	// 	// Implement
-	// }
-
-	// public int[][] rotateMatrix(int[][] matrix) {
-	// 	// Implement
-	// }
-
-	// public int longestSubstringWithoutRepeating(String str) {
-	// 	// Implement
-	// }
